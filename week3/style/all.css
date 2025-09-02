@@ -1,0 +1,10 @@
+/* 引入外部資源*/
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap");
+
+@import "reset.css";
+@import "variables.css";
+@import "base.css";
+@import "utils.css";
+@import "component.css";
+@import "layout.css";
